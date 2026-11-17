@@ -6,6 +6,12 @@ About Project
 
 Maze Escape Game is a Python-based project. The objective is to navigate through a maze and reach the exit.
 
+Features
+- Player can navigate through the maze.
+- Walls block the player's movement.
+- The game has an exit point.
+- The player wins after reaching the exit.
+
 Language Used
 
 - Python
@@ -23,6 +29,10 @@ Project File
 
 - "maze_escape.py" – Main Python game file.
 
-Author
+Name - Abhishek Kumar
 
-Abhishek Kumar
+Class - 1st semester 1j
+
+ERP- 01713
+
+
