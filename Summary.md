@@ -37,4 +37,10 @@ Conclusion
 
 All 7 test cases were successfully executed. The Maze Escape Game works correctly for the tested inputs.
 
+## Test Case Screenshots
 
+All working test case screenshots are available in the testcase folder.
+
+1. maze_test_bfs.png
+2. maze_test_gameplay.png
+3. maze_test_movement.png
