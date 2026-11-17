@@ -11,6 +11,8 @@ Features
 - Walls block the player's movement.
 - The game has an exit point.
 - The player wins after reaching the exit.
+- Multiple levels
+- Time Challenge
 
 Language Used
 
